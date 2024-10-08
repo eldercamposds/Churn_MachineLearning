@@ -1,2 +1,2 @@
-# Chunr_MachineLearning
+# Churn_MachineLearning
 Modelo de machine learning para previsão de churn
